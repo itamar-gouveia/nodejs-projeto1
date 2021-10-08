@@ -1,0 +1,19 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "primeiro projeto nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itamar-gouveia/nodejs-projeto1.git"
+  },
+  "author": "itamar gouveia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itamar-gouveia/nodejs-projeto1/issues"
+  },
+  "homepage": "https://github.com/itamar-gouveia/nodejs-projeto1#readme"
+}
